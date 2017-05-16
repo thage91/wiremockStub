@@ -1,0 +1,16 @@
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since
+Access-Control-Allow-Methods: GET, POST, DELETE, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag
+Connection: keep-alive
+Content-Length: 1012
+Content-Type: application/json
+Date: Tue, 16 May 2017 13:44:12 GMT
+Strict-Transport-Security: max-age=15768000
+Twilio-Request-Duration: 0.204
+Twilio-Request-Id: RQ2000000xxxx
+X-Powered-By: AT-5000
+X-Shenanigans: none
+
+{"sid": "CA659f191a46464xxxxxxcad5d32f6d2c", "date_created": null, "date_updated": null, "parent_call_sid": null, "account_sid": "ACxxxxxx", "to": "+31600000000", "to_formatted": "+31600000000", "from": "+3185000000009", "from_formatted": "+3180000000", "phone_number_sid": "PNbf18700a7xxxxxxxxxxbb0cb", "status": "queued", "start_time": null, "end_time": null, "duration": null, "price": null, "price_unit": "USD", "direction": "outbound-api", "answered_by": null, "api_version": "2010-04-01", "annotation": null, "forwarded_from": null, "group_sid": null, "caller_name": null, "uri": "/2010-04-01/Accounts/ACxxxxx/Calls/CA659f191a464641xxxxxxxxxxxxd5d32.json", "subresource_uris": {"notifications": "/2010-04-01/Accounts/ACxxxxxxx/Calls/CA659f191a46464xxxxxxxxxd32f6d2c/Notifications.json", "recordings": "/2010-04-01/Accounts/ACxxxxxxx/Calls/CA659f191a464xxxxxxxxxd5d32f6d2c/Recordings.json"}}
