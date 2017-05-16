@@ -1,0 +1,7 @@
+POST /2010-04-01/Accounts/ACxxx/Calls.json HTTP/1.1
+HOST: api.twilio.com
+authorization: Basic xxxxxxxxx:xxxxx
+content-length: 76
+content-type: application/x-www-form-urlencoded
+
+To=+31600000000&From=+31850000000 &Url=http://demo.twilio.com/docs/voice.xml
