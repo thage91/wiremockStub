@@ -1,1 +1,1 @@
-# Wiremock stub for handeling async callbacks
+# Wiremock stub for handling async callbacks
